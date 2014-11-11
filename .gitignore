@@ -1,0 +1,12 @@
+bin/
+target/
+tmp/
+old/
+.cache
+.git
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+
