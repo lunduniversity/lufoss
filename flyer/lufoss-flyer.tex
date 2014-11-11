@@ -1,0 +1,38 @@
+%compile with XeLaTeX
+\documentclass[a4paper,oneside]{report}
+\usepackage[margin=33mm]{geometry}
+\usepackage{xltxtra,fontspec,xunicode} %requires XeLaTeX
+  \setromanfont{Mint Spirit}
+  \setsansfont{Mint Spirit}
+  \setmonofont{DejaVu Sans Mono}
+\usepackage{hyperref}
+   \hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+        \chead{DRAFT}
+        \cfoot{\footnotesize\url{https://github.com/bjornregnell/lufoss/flyer/lufoss-flyer.pdf}}
+        \renewcommand{\footrulewidth}{0.4pt}
+\pagenumbering{gobble}
+\begin{document}
+\Large
+\section*{LUFOSS\\Lund University Fund for Open Source Software}
+LUFOSS gives scholarships to MSc students, doctoral candidates and researchers that contribute to open source projects. 
+\\ \\The LUFOSS board members decides about scholarships based on proposals that are assessed in relation to the criteria below. \\Anyone can propose candidates via the \href{https://github.com/bjornregnell/lufoss}{LUFOSS home page}. 
+
+\section*{LUFOSS Assessment Criteria}
+\begin{description}
+\item[Utility] The utility of the OSS contribution is assessed in relation to the potential future benefit to end users, other OSS projects, businesses and society.
+\item[Impact] The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, businesses and society.  
+\item[Öresund Connection] Nominees should have a connection to the Öresund area, e.g. Lund, Malmö or Copenhagen.
+\end{description}
+
+\section*{Example OSS contribution categories}
+We invite nominations of all types of OSS projects, including but not limited to:
+\begin{itemize}
+\item Software tools that improve the speed and quality of software development, e.g. version control,  deployment and testing.
+\item Infrastructure software supporting other OSS projects, e.g. OS kernels, communication software, or cloud stacks.
+\item Software platforms that enable novel services and solutions, e.g. databases, big data crunching or web frameworks.
+\item Software applications and services that enable new businesses, important academic research or efficient public organisations. 
+\end{itemize} 
+
+\end{document}
