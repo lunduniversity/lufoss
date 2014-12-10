@@ -1,45 +1,79 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>LUFOSS</title
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="LUFOSS Index.">
+    <title>LUFOSS &ndash; Lund University Fund for Open Source Software </title>
+     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="css/layouts/side-menu-old-ie.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="css/layouts/side-menu.css">
+    <!--<![endif]-->
+</head>
+<body>
+<div id="layout">
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
 
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <div id="menu">
+        <div class="pure-menu pure-menu-open">
+            <a class="pure-menu-heading" href="#lufoss">LUFOSS</a>
 
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+            <ul>
+                <li>
+                    <a href="http://lufoss.org">Home</a>
+                </li>
+                <li>
+                    <a href="https://github.com/bjornregnell/lufoss/">Code</a>
+                </li>
+                </ul>
+        </div>
+    </div>
 
-<style>
-div {
-    min-width: 300px;
-    max-width: 600px;
-    margin:5px 10% 5px 5%;
-} 
-</style>
-  </head>
-  
-  
-  <body>
+    <div id="main">
 
-<div>
-  <h1>Lund University Fund for Open Source Software - LUFOSS</h1>
-    <h2>Purpose</h2>
-    <p>LUFOSS gives scholarships to MSc students, doctoral candidates and researchers that contribute to open source projects.</p> 
-    <h2>Process</h2>
-    <p>The LUFOSS board members decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates.</p>
-    <h2>Criteria</h2>
-    <ul>
-    <li><b>Utility</b>. The utility of the OSS contribution is assessed in relation to the potential future benefit to end users, other OSS projects, businesses and society.</li>
-    <li><b>Impact</b>. The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, businesses and society.</li>
-    <li><b>Öresund Connection</b>. Nominees should have a connection to the Öresund area.</li>
-    </ul>
+            
+        <div class="header">
+            <h1><a id="lufoss">LUFOSS</a></h1>
+            <h2>Lund University Fund for Open Source Software</h2>
+        </div>
+                  
+
+        <div class="content">
+      <div class="pure-g">
+                <div class="pure-u-1-2">
+                    <img class="pure-img-responsive" src="img/lu-eng-bag.jpg"   alt="LTH">
+                </div>
+                <div class="pure-u-1-2">
+                    <img class="pure-img-responsive" src="img/karhuset.jpg"  alt="Kårhuset">
+                </div>
+            </div>
+        <h2 class="content-subhead"><a id="purpose">Purpose</a></h2>
+            <p>
+                LUFOSS gives scholarships to MSc students, doctoral candidates and researchers that contribute to open source projects. The LUFOSS board members decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates.
+            </p>
+
+            <h2 class="content-subhead"><a id="criteria">Criteria</a></h2>
+            <p>
+              <ul>
+                <li><b>Utility</b>. The utility of the OSS contribution is assessed in relation to the potential future benefit to end users, other OSS projects, businesses and society.</li>
+                <li><b>Impact</b>. The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, businesses and society.</li>
+                <li><b>Öresund Connection</b>. Nominees should have a connection to the Öresund area.</li>
+              </ul>    
+            </p>
+
+        </div>
+    </div>
 </div>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-  </body>
+
+<script src="js/ui.js"></script>
+
+
+</body>
 </html>
