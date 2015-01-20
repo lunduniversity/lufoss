@@ -28,7 +28,7 @@ The criteria for the grant are:
 * Hampus Jakobsson, Entrepreneur
 * Jan Erik Solem, Assoc. Professor LTH, Entrepreneur
 * Karl-Anders Johansson, Entrepreneur
-* Kalle Åström, Professor LTH
+* Kalle Åström, Professor LTH, Entrepreneur
 * Carolina Sartorius, Student LTH
 * Johan Förberg, Student LTH
 * Johan Linåker, Student LTH
