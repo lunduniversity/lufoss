@@ -31,4 +31,4 @@ The criteria for the grant are:
 * Kalle Åström, Professor LTH, Entrepreneur
 * Carolina Sartorius, Student LTH
 * Johan Förberg, Student LTH
-* Johan Linåker, Student LTH
+* Johan Linåker, Doctoral Candidate LTH
