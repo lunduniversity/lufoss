@@ -26,7 +26,7 @@ The criteria for the grant are:
 
 * Björn Regnell, Chair, Professor LTH
 * Hampus Jakobsson, Entrepreneur
-* Jan Erik Solem, Assoc. Professor LTH, Mapillary
+* Jan Erik Solem, Assoc. Professor LTH, Entrepreneur
 * Karl-Anders Johansson, Entrepreneur
 * Kalle Åström, Professor LTH
 * Carolina Sartorius, Student LTH
