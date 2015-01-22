@@ -10,7 +10,7 @@ Open Source Software (OSS) is not only changing our society, but a great way to 
 
 ## Process
 
-The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates via the [LUFOSS home page](https://www.lth.se/lufoss)
+The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates via the LUFOSS home page:[www.lufoss.org](http://www.lufoss.org)
 
 ## Criteria 
 
