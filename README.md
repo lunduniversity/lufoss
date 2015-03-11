@@ -1,4 +1,3 @@
-
 LUFOSS
 ======
 
@@ -28,9 +27,7 @@ The main criteria for the grant are:
 * **Impact** The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, businesses and society.  
 * **Öresund Connection** Nominees should have a connection to the Öresund area.
 
-The criteria are used to assess both persons and publically hosted open source repositories using these [guidelines](http://xxx)
-
-**Observe that projects to be evaluated must have an open source license!**
+The criteria are used to assess both persons and publically hosted open source repositories using these [guidelines](https://github.com/bjornregnell/lufoss/blob/master/assessment-guidelines.md).
 
 ## LUFOSS Nomination Committee
 
@@ -45,7 +42,7 @@ The criteria are used to assess both persons and publically hosted open source r
 
 ## How to contribute?
 
-  * Anyone can nominate candidates to the LUFOSS scholarship at [www.lufoss.org](http://www.lufoss.org) that have reached some level of maturity according to our guidelines 
-  * If you represent an organisation or are a philanthropist interested in open source software you can donate to our fund hosted by Lund University that enables LUFOSS giving scholarships. Please contact bjorn.regnell@cs.lth.se for more information.
+  * Anyone can nominate candidates to the LUFOSS scholarship at [www.lufoss.org](http://www.lufoss.org) that have reached some level of maturity according to our [guidelines](https://github.com/bjornregnell/lufoss/blob/master/assessment-guidelines.md). 
+  * If you represent an organisation or are a philanthropist interested in supporting open source software talents, you can donate to our fund hosted by Lund University that enables LUFOSS giving scholarships. Please contact bjorn.regnell@cs.lth.se for more information. LUFOSS is dedicated in helping companies finding open source software talents.
   * Volunteer to work for LUFOSS, e.g. helping out with spreading the word, participating at our scholarship announcement events, providing new ideas on further activities, etc.
   
