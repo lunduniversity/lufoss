@@ -31,14 +31,24 @@ The criteria are used to assess both persons and publically hosted open source r
 
 ## LUFOSS Nomination Committee
 
-* Björn Regnell, Chair, Professor LTH
-* Hampus Jakobsson, Entrepreneur
-* Jan Erik Solem, Assoc. Professor LTH, Entrepreneur
+###Entrepreneurs
+
+* Hampus Jakobsson, Entrepreneur, Vice Chair of Lufoss
+* Jan-Erik Solem, Entrepreneur
 * Karl-Anders Johansson, Entrepreneur
-* Kalle Åström, Professor LTH, Entrepreneur
-* Carolina Sartorius, Student LTH
-* Johan Förberg, Student LTH
-* Johan Linåker, Doctoral Candidate LTH
+
+###Students
+
+* Carolina Sartorius, Student LTH, Student faculty council Computer Science & Eng.
+* Johan Förberg, Student LTH, Student union representative
+* Johan Linåker, PhD Student, President PhD Student section, TLTH
+
+###Professors
+
+* Björn Regnell, Professor LTH, Chair of Lufoss
+* Görel Hedin, Professor LTH
+* Kalle Åström, Professor LTH
+
 
 ## How to contribute?
 
