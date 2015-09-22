@@ -25,7 +25,7 @@ The main criteria for the grant are:
 
 * **Utility** The utility of the OSS contribution is assessed in relation to the potential future benefit to end users, other OSS projects, businesses and society.
 * **Impact** The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, businesses and society.  
-* **Öresund Connection** Nominees should have a connection to the Öresund area.
+* **Öresund Connection** Nominees should have a connection to the Öresund area (aka The Greater Lund Region). 
 
 The criteria are used to assess both persons and publically hosted open source repositories using these [guidelines](https://github.com/bjornregnell/lufoss/blob/master/assessment-guidelines.md).
 
