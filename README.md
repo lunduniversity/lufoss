@@ -40,7 +40,7 @@ The criteria are used to assess both persons and publically hosted open source r
 ###Students
 
 * Carolina Sartorius, Student LTH, Student faculty council Computer Science & Eng.
-* Johan Förberg, Student LTH, Student union representative
+* Erik Bjäreholt, Student LTH
 * Johan Linåker, PhD Student, President PhD Student section, TLTH
 
 ###Professors
