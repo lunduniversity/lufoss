@@ -1,7 +1,7 @@
 LUFOSS
 ======
 
-#Lund University Fund for Open Source Software
+__Lund University Fund for Open Source Software__
 
 ## Purpose
 
@@ -27,23 +27,23 @@ The main criteria for the grant are:
 * **Impact** The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, businesses and society.  
 * **Öresund Connection** Nominees should have a connection to the Öresund area (aka The Greater Lund Region). 
 
-The criteria are used to assess both persons and publically hosted open source repositories using these [guidelines](https://github.com/bjornregnell/lufoss/blob/master/assessment-guidelines.md).
+The criteria are used to assess both persons and publically hosted open source repositories using these [guidelines](https://github.com/lunduniversity/lufoss/blob/master/assessment-guidelines.md).
 
 ## LUFOSS Nomination Committee
 
-###Entrepreneurs
+### Entrepreneurs
 
 * Hampus Jakobsson, Entrepreneur, Vice Chair of Lufoss
 * Jan-Erik Solem, Entrepreneur
 * Karl-Anders Johansson, Entrepreneur
 
-###Students
+### Students
 
 * Carolina Sartorius, Student LTH, Student faculty council Computer Science & Eng.
 * Erik Bjäreholt, Student LTH
 * Johan Linåker, PhD Student, President PhD Student section, TLTH
 
-###Professors
+### Professors
 
 * Björn Regnell, Professor LTH, Chair of Lufoss
 * Görel Hedin, Professor LTH
@@ -52,7 +52,7 @@ The criteria are used to assess both persons and publically hosted open source r
 
 ## How to contribute?
 
-  * Anyone can nominate candidates to the LUFOSS scholarship at [www.lufoss.org](http://www.lufoss.org) that have reached some level of maturity according to our [guidelines](https://github.com/bjornregnell/lufoss/blob/master/assessment-guidelines.md). 
+  * Anyone can nominate candidates to the LUFOSS scholarship at [www.lufoss.org](http://www.lufoss.org) that have reached some level of maturity according to our [guidelines](https://github.com/lunduniversity/lufoss/blob/master/assessment-guidelines.md). 
   * If you represent an organisation or are a philanthropist interested in supporting open source software talents, you can donate to our fund hosted by Lund University that enables LUFOSS giving scholarships. Please contact bjorn.regnell@cs.lth.se for more information. LUFOSS is dedicated in helping companies finding open source software talents.
   * Volunteer to work for LUFOSS, e.g. helping out with spreading the word, participating at our scholarship announcement events, providing new ideas on further activities, etc.
   
