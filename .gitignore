@@ -7,6 +7,12 @@ old/
 *.aux
 *.log
 *.out
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.toc
+*.vrb
 *.synctex.gz
 
 
