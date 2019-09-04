@@ -29,27 +29,6 @@ The main criteria for the grant are:
 
 The criteria are used to assess both persons and publically hosted open source repositories using these [guidelines](https://github.com/lunduniversity/lufoss/blob/master/assessment-guidelines.md).
 
-## LUFOSS Nomination Committee
-
-### Entrepreneurs
-
-* Hampus Jakobsson, Entrepreneur, Vice Chair of Lufoss
-* Jan-Erik Solem, Entrepreneur
-* Karl-Anders Johansson, Entrepreneur
-
-### Students
-
-* Carolina Sartorius, Student LTH, Student faculty council Computer Science & Eng.
-* Erik Bjäreholt, Student LTH
-* Johan Linåker, PhD Student, President PhD Student section, TLTH
-
-### Professors
-
-* Björn Regnell, Professor LTH, Chair of Lufoss
-* Görel Hedin, Professor LTH
-* Kalle Åström, Professor LTH
-
-
 ## How to contribute?
 
   * Anyone can nominate candidates to the LUFOSS scholarship at [www.lufoss.org](http://www.lufoss.org) that have reached some level of maturity according to our [guidelines](https://github.com/lunduniversity/lufoss/blob/master/assessment-guidelines.md). 
