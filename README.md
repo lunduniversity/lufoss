@@ -17,7 +17,7 @@ The activities of LUFOSS and the scholarships given shall support these general 
 
 ## Process
 
-The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates at [www.lufoss.org](http://www.lufoss.org)
+The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can nominate candidates by opening an issue in this repo.
 
 ## Criteria 
 
