@@ -17,7 +17,7 @@ The activities of LUFOSS and the scholarships given shall support these general 
 
 ## Process
 
-The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can nominate candidates by opening an issue in this repo.
+The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can nominate candidates by email to the chair.
 
 ## Criteria 
 
@@ -31,7 +31,7 @@ The criteria are used to assess both persons and publically hosted open source r
 
 ## How to contribute?
 
-  * Anyone can nominate candidates to the LUFOSS scholarship at [www.lufoss.org](http://www.lufoss.org) that have reached some level of maturity according to our [guidelines](https://github.com/lunduniversity/lufoss/blob/master/assessment-guidelines.md). 
+  * Anyone can nominate candidates to the LUFOSS scholarship that have reached some level of maturity according to our [guidelines](https://github.com/lunduniversity/lufoss/blob/master/assessment-guidelines.md). Nominations are given by email to the chair.
   * If you represent an organisation or are a philanthropist interested in supporting open source software talents, you can donate to our fund hosted by Lund University that enables LUFOSS giving scholarships. Please contact bjorn.regnell@cs.lth.se for more information. LUFOSS is dedicated in helping companies finding open source software talents.
   * Volunteer to work for LUFOSS, e.g. helping out with spreading the word, participating at our scholarship announcement events, providing new ideas on further activities, etc.
   
