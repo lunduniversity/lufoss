@@ -1,12 +1,13 @@
 %compile with XeLaTeX
 \documentclass[a4paper,oneside]{report}
 \usepackage[margin=40mm]{geometry}
-\usepackage{xltxtra,fontspec,xunicode} %requires XeLaTeX
-  \setromanfont{Mint Spirit}
-  \setsansfont{Mint Spirit}
-  \setmonofont{DejaVu Sans Mono}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[scaled=0.85]{beramono} % inconsolata or beramono ???
+\usepackage{fouriernc} % serif: new century schoolbook
+\usepackage{avant}     % sans serif: Avant Garde
 \usepackage{hyperref}
-   \hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
         \chead{LUFOSS Call For Nominations}
@@ -15,12 +16,12 @@
 \pagenumbering{gobble}
 \begin{document}
 \large
-\section*{LUFOSS: Lund University Fund for Open Source Software}
+\section*{\centerline{LUFOSS}\\\centerline{Lund University Fund for Open Source Software}}
 Open Source Software (OSS) is not only changing our society, but a great way to learn about software development and to get a track record as a junior developer. LUFOSS gives scholarships to persons that contribute to OSS projects with significant utility and impact. Nominees can be students, doctoral candidates, and software developers in their early careers.
 
-The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates via the LUFOSS home page: \vskip1em\centerline{\url{http://www.lth.se/lufoss}} 
-\vskip1em\centerline{Nomination deadline: November 13st} 
-\section*{LUFOSS Assessment Criteria}
+The LUFOSS nomination commitee decides about scholarships based on proposals that are assessed in relation to the criteria below. Anyone can propose candidates. For more information visit the LUFOSS site: 
+\vskip1em\centerline{\url{https://github.com/lunduniversity/lufoss/}} 
+\section*{Assessment Criteria}
 \begin{description}
 \item[Utility] The utility of the OSS contribution is assessed in relation to the potential future benefit to end users, other OSS projects, research, business and society.
 \item[Impact] The impact is assessed in relation to existing proof of, e.g., downloads, usage and recognition by end users, other OSS projects, research, business and society.  
